@@ -1,2 +1,0 @@
-# tula.job.io
-dils
